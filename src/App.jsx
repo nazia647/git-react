@@ -27,7 +27,7 @@
 //       </div>
 //       <p className="read-the-docs">
 //         Click on the Vite and React logos to learn more
-//       </p>
+//       </p>                                                                                                   
 //     </>
 //   )
 // }
@@ -39,11 +39,12 @@
 
 import React from 'react'
 
-function App() {
+function App() {                 
   return (
     <div>
       <h1>hello</h1>
       <p> i m nazia</p>
+      <P>it section</P>
     </div>
   )
 }
